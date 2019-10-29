@@ -33,7 +33,5 @@ At the end of program I released all the memory used.
 For best precision I used distances squared, to keep the variables 
 integers.
 
-#### Copyright 2018 
-#### Rica Radu Leonard 315CA
 
     
