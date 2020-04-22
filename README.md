@@ -1,4 +1,4 @@
-# Battle Royal Simulator
+# Battle Royal Game 
 
 ## Move
 In the function move I computed the new coords and I checked if player has 
