@@ -1,4 +1,4 @@
-# PUBG - Simulator
+# Battle Royal Simulator
 
 ## Move
 In the function move I computed the new coords and I checked if player has 
